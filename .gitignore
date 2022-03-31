@@ -1,3 +1,9 @@
+# Adding config.py file.
+config.py
+
+random_numbers.ipynb
+bostonWeather.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
